@@ -1,0 +1,14 @@
+D:\02 tugas\LibraryTest\bin\Debug\netstandard2.0\LibraryUnitTest.deps.json
+D:\02 tugas\LibraryTest\bin\Debug\netstandard2.0\LibraryUnitTest.dll
+D:\02 tugas\LibraryTest\bin\Debug\netstandard2.0\LibraryUnitTest.pdb
+D:\02 tugas\LibraryTest\bin\Debug\netstandard2.0\nunit.framework.dll
+D:\02 tugas\LibraryTest\bin\Debug\netstandard2.0\TugasLibrary.dll
+D:\02 tugas\LibraryTest\bin\Debug\netstandard2.0\TugasLibrary.pdb
+D:\02 tugas\LibraryTest\bin\Debug\netstandard2.0\nunit.framework.xml
+D:\02 tugas\LibraryTest\obj\Debug\netstandard2.0\LibraryUnitTest.csprojAssemblyReference.cache
+D:\02 tugas\LibraryTest\obj\Debug\netstandard2.0\LibraryUnitTest.AssemblyInfoInputs.cache
+D:\02 tugas\LibraryTest\obj\Debug\netstandard2.0\LibraryUnitTest.AssemblyInfo.cs
+D:\02 tugas\LibraryTest\obj\Debug\netstandard2.0\LibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\02 tugas\LibraryTest\obj\Debug\netstandard2.0\LibraryUnitTest.csproj.CopyComplete
+D:\02 tugas\LibraryTest\obj\Debug\netstandard2.0\LibraryUnitTest.dll
+D:\02 tugas\LibraryTest\obj\Debug\netstandard2.0\LibraryUnitTest.pdb
